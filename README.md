@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Karan 👋
 
-<!--
-**karanj7890/karanj7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js | TypeScript
 
-Here are some ideas to get you started:
+I'm a Frontend Developer focused on building responsive,
+scalable and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- React.js
+- TypeScript
+- JavaScript
+- Redux Toolkit
+- Redux Saga
+- REST APIs
+- HTML5
+- CSS3
+
+## 🚀 Featured Projects
+
+### 📝 SyncWrite
+Real-time collaborative document editor built with
+React, TypeScript, Yjs and WebSockets.
+
+### 📋 FormCraft Pro
+Form and survey management platform.
+
+## 📈 Currently
+
+- 💻 Looking for Frontend Developer opportunities
+- ⚛️ Improving my React & TypeScript skills
+- 🧠 Preparing for frontend interviews
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/karan-jalal-017a03229/
+- Email: karanjalal96@gmail.com
